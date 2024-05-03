@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "Brother1816-Bold";
+    src: url(assets/fonts/Brother1816-Bold.ttf);
+}
+
+@font-face {
+    font-family: "Brother1816-ExtraBold";
+    src: url(assets/fonts/Brother1816-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: "Brother1816-Medium";
+    src: url(assets/fonts/Brother1816-Medium.ttf);
+}
+
+@font-face {
+    font-family: "Brother1816-Book";
+    src: url(assets/fonts/Brother1816-Book.ttf);
+}
+
+.ff-Brother1816-Bold{
+    font-family: "Brother1816-Bold" !important;
+}
+
+.ff-Brother1816-ExtraBold{
+    font-family: "Brother1816-ExtraBold" !important;
+}
+
+.ff-Brother1816-Medium{
+    font-family: "Brother1816-Medium" !important;
+}
+
+.ff-Brother1816-Book{
+    font-family: "Brother1816-Book" !important;
+}
+
+.h-500{
+    height: 500px;
+}
+
+h1{
+    font-size: 4.5rem !important;
+}
+
+.p-5rem{
+    padding: 5rem;
+}
